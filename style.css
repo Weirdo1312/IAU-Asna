@@ -321,4 +321,7 @@ caption,
 
 
 @-moz-document url-prefix("https://stdn.iau.ir/Student/printStdRegAction.do") {
+    body {
+        background: white;
+}
 }
