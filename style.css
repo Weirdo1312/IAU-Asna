@@ -1,25 +1,25 @@
 @-moz-document url-prefix("https://stdn.iau.ir/Student/Pages/acmstd/loginPage.jsp"), url-prefix("https://stdn.iau.ir/Student/captchaProcess"), url-prefix("https://stdn.iau.ir/Student/j_security_check") {
-#loginTable #text1  {
-    color:black;
+#loginTable #text1 {
+    color: black;
 }
 
 .besmeallah {
     display: none;
 }
 
-#loginTable > tbody > tr:first-child    {
-    display:none;
+#loginTable > tbody > tr:first-child {
+    display: none;
 }
 
-body    {
+body {
     background: #153d4a;
 }
 
-#loginTable > tbody > tr:nth-child(2) > td:nth-child(1)    {
-    display:none;
+#loginTable > tbody > tr:nth-child(2) > td:nth-child(1) {
+    display: none;
 }
 
-#loginTable > tbody > tr:nth-child(2) > td:nth-child(2)    {
+#loginTable > tbody > tr:nth-child(2) > td:nth-child(2) {
     border: none;
 }
 
@@ -34,7 +34,7 @@ body    {
     padding: 15px;
 }
 
-#dialog34   {
+#dialog34 {
     box-shadow: none;
     border-radius: 10px 10px 10px 10px;
     -webkit-border-top-left-radius: 10px;
@@ -43,7 +43,7 @@ body    {
     -webkit-border-bottom-left-radius: 10px;
 }
 
-.dijitDialogPaneContent > p > img   {
+.dijitDialogPaneContent > p > img {
     display: none;
 }
 
@@ -58,12 +58,16 @@ body    {
     border: none;
 }
 
-.claro .dijitButton .dijitButtonNode, .claro .dijitDropDownButton .dijitButtonNode, .claro .dijitComboButton .dijitButtonNode, .claro .dijitToggleButton .dijitButtonNode {
+.claro .dijitButton .dijitButtonNode,
+.claro .dijitDropDownButton .dijitButtonNode,
+.claro .dijitComboButton .dijitButtonNode,
+.claro .dijitToggleButton .dijitButtonNode {
     background: #abccf5;
-    
 }
 
-#loginform input#sendVC, #loginform input#sendVCN, #loginform input[type=submit] {
+#loginform input#sendVC,
+#loginform input#sendVCN,
+#loginform input[type=submit] {
     background: #ffffffba;
 }
 }
@@ -73,7 +77,7 @@ body    {
     display: none;
 }
 
-body    {
+body {
     background: #153d4a;
 }
 
@@ -89,7 +93,7 @@ body    {
     max-width: 350px;
 }
 
-#dialog34   {
+#dialog34 {
     box-shadow: none;
     border-radius: 10px 10px 10px 10px;
     -webkit-border-top-left-radius: 10px;
@@ -98,7 +102,7 @@ body    {
     -webkit-border-bottom-left-radius: 10px;
 }
 
-.dijitDialogPaneContent > p > img   {
+.dijitDialogPaneContent > p > img {
     display: none;
 }
 
@@ -113,20 +117,22 @@ body    {
     border: none;
 }
 
-.claro .dijitButton .dijitButtonNode, .claro .dijitDropDownButton .dijitButtonNode, .claro .dijitComboButton .dijitButtonNode, .claro .dijitToggleButton .dijitButtonNode {
+.claro .dijitButton .dijitButtonNode,
+.claro .dijitDropDownButton .dijitButtonNode,
+.claro .dijitComboButton .dijitButtonNode,
+.claro .dijitToggleButton .dijitButtonNode {
     background: #abccf5;
-    
 }
 
-#loginTable > tbody > tr:first-child    {
-    display:none;
+#loginTable > tbody > tr:first-child {
+    display: none;
 }
 
-table > tbody > tr:nth-child(2) > th > form > table > tbody > tr > td:first-child         {
-    display:none;
+table > tbody > tr:nth-child(2) > th > form > table > tbody > tr > td:first-child {
+    display: none;
 }
 
-.br-left    {
+.br-left {
     border: 0;
 }
 
@@ -138,24 +144,23 @@ table > tbody > tr:nth-child(2) > th > form > table > tbody > tr > td:first-chil
     display: none;
 }
 
-#loginform input#sendVC, #loginform input#sendVCN, #loginform input[type=submit] {
+#loginform input#sendVC,
+#loginform input#sendVCN,
+#loginform input[type=submit] {
     background: #ffffffba;
 }
 
 
-#loginTable > tbody > tr:nth-child(3) >  th > form > table > tbody > tr > td:first-child   {
+#loginTable > tbody > tr:nth-child(3) > th > form > table > tbody > tr > td:first-child {
     display: none;
 }
 
-#timerMessage   {
+#timerMessage {
     display: none;
 }
-
-
 }
 
 @-moz-document url-prefix("https://stdn.iau.ir/Student/Pages/logon/changePassword.jsp") {
-
 .dialogcontent {
     margin: auto;
     width: fit-content;
@@ -175,40 +180,47 @@ table > tbody > tr:nth-child(2) > th > form > table > tbody > tr > td:first-chil
 }
 
 @-moz-document url-prefix("https://stdn.iau.ir/Student") {
-#header  {
-    display: none;    
-}
-
-body    {
-    background: #153d4a;
-}
-
-#maincontent .heading   {
-    background: #153d4a;
-}
-
-#maincontent .heading .user-menu    {
-    background: #153d4a;
-}
-
-.maintable-footer   {
+#header {
     display: none;
 }
 
-body, div, td, input, textarea, select, button  {
+body {
+    background: #153d4a;
+}
+
+#maincontent .heading {
+    background: #153d4a;
+}
+
+#maincontent .heading .user-menu {
+    background: #153d4a;
+}
+
+.maintable-footer {
+    display: none;
+}
+
+body,
+div,
+td,
+input,
+textarea,
+select,
+button {
     font-size: 16px;
 }
 
 #maincontent .heading .misc-menu .wrapper {
     border-radius: 10px 10px 10px 10px;
-    background:#9eb5d8;
+    background: #9eb5d8;
 }
 
-#maincontent .heading .misc-menu    {
+#maincontent .heading .misc-menu {
     background-image: none;
 }
 
-#maincontent .heading .operational-menu .wrapper, #maincontent .heading .misc-menu .wrapper{
+#maincontent .heading .operational-menu .wrapper,
+#maincontent .heading .misc-menu .wrapper {
     border-radius: 10px 10px 10px 10px;
     background: #9eb5d8;
 }
@@ -217,17 +229,18 @@ body, div, td, input, textarea, select, button  {
     background-image: none;
 }
 
-#menuFrame  {
+#menuFrame {
     min-width: 250px;
     min-height: 950px;
 }
 
 #sidebar {
     margin-top: 123.5px;
-    min-width:250px;
+    min-width: 250px;
 }
 
-#maincontent #pagetitle input.returnbutton2, #maincontent #breadcrumb input.returnbutton2   {
+#maincontent #pagetitle input.returnbutton2,
+#maincontent #breadcrumb input.returnbutton2 {
     font-size: 12px;
     border-radius: 10px;
     color: white;
@@ -237,57 +250,59 @@ body, div, td, input, textarea, select, button  {
     font-size: 14px;
 }
 
-#maincontent .heading .secondrow    {
+#maincontent .heading .secondrow {
     height: 80px;
 }
 
-#maincontent .heading .operational-menu, #maincontent .heading .misc-menu   {
+#maincontent .heading .operational-menu,
+#maincontent .heading .misc-menu {
     color: black;
-    
 }
 
-#maincontent .heading .user-menu    {
+#maincontent .heading .user-menu {
     display: flex;
     justify-content: center;
 }
 
-#maincontent .heading .operational-menu, #maincontent .heading .misc-menu {
-    position:relative;
+#maincontent .heading .operational-menu,
+#maincontent .heading .misc-menu {
+    position: relative;
     right: -25%;
 }
 
-.pagetitle  {
+.pagetitle {
     background: #153d4a;
     color: white;
     text-shadow: none;
 }
 
 .datagrid table * {
-   text-align: center;
+    text-align: center;
 }
 
 
-#printBody  {
+#printBody {
     width: 1250px;
     margin-left: auto;
     margin-right: auto;
 }
 
-#formCommands   {
+#formCommands {
     text-align: center;
 }
 
-.datagrid  {
+.datagrid {
     border-radius: 10px 10px 10px 10px;
 }
 
-caption, .caption   {
+caption,
+.caption {
     border-radius: 10px 10px 10px 10px;
 }
 }
 
 @-moz-document url-prefix("https://stdn.iau.ir/Student/cache?a=menu") {
-.myautocompl    {
+.myautocompl {
     padding: 5px;
 }
 
@@ -299,7 +314,7 @@ caption, .caption   {
     font-size: 16px;
 }
 
-#mainmenu ul ul a   {
-    border-bottom: solid 1px ;
+#mainmenu ul ul a {
+    border-bottom: solid 1px;
 }
 }
