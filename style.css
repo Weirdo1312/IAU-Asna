@@ -1,0 +1,305 @@
+@-moz-document url-prefix("https://stdn.iau.ir/Student/Pages/acmstd/loginPage.jsp"), url-prefix("https://stdn.iau.ir/Student/captchaProcess"), url-prefix("https://stdn.iau.ir/Student/j_security_check") {
+#loginTable #text1  {
+    color:black;
+}
+
+.besmeallah {
+    display: none;
+}
+
+#loginTable > tbody > tr:first-child    {
+    display:none;
+}
+
+body    {
+    background: #153d4a;
+}
+
+#loginTable > tbody > tr:nth-child(2) > td:nth-child(1)    {
+    display:none;
+}
+
+#loginTable > tbody > tr:nth-child(2) > td:nth-child(2)    {
+    border: none;
+}
+
+#loginTable {
+    box-shadow: none;
+    background: #abccf5;
+    border-radius: 20px 20px 20px 20px;
+    -webkit-border-top-left-radius: 20px;
+    -webkit-border-top-right-radius: 20px;
+    -webkit-border-bottom-right-radius: 20px;
+    -webkit-border-bottom-left-radius: 20px;
+    padding: 15px;
+}
+
+#dialog34   {
+    box-shadow: none;
+    border-radius: 10px 10px 10px 10px;
+    -webkit-border-top-left-radius: 10px;
+    -webkit-border-top-right-radius: 10px;
+    -webkit-border-bottom-right-radius: 10px;
+    -webkit-border-bottom-left-radius: 10px;
+}
+
+.dijitDialogPaneContent > p > img   {
+    display: none;
+}
+
+.claro .dijitDialogPaneActionBar {
+    background: none;
+    padding: 0;
+    border-top: 0;
+}
+
+.claro .dijitDialogTitleBar {
+    background: #abccf5;
+    border: none;
+}
+
+.claro .dijitButton .dijitButtonNode, .claro .dijitDropDownButton .dijitButtonNode, .claro .dijitComboButton .dijitButtonNode, .claro .dijitToggleButton .dijitButtonNode {
+    background: #abccf5;
+    
+}
+
+#loginform input#sendVC, #loginform input#sendVCN, #loginform input[type=submit] {
+    background: #ffffffba;
+}
+}
+
+@-moz-document url-prefix("https://stdn.iau.ir/Student/manageAccount") {
+.besmeallah {
+    display: none;
+}
+
+body    {
+    background: #153d4a;
+}
+
+#loginTable {
+    box-shadow: none;
+    background: #abccf5;
+    border-radius: 20px 20px 20px 20px;
+    -webkit-border-top-left-radius: 20px;
+    -webkit-border-top-right-radius: 20px;
+    -webkit-border-bottom-right-radius: 20px;
+    -webkit-border-bottom-left-radius: 20px;
+    max-height: 0;
+    max-width: 350px;
+}
+
+#dialog34   {
+    box-shadow: none;
+    border-radius: 10px 10px 10px 10px;
+    -webkit-border-top-left-radius: 10px;
+    -webkit-border-top-right-radius: 10px;
+    -webkit-border-bottom-right-radius: 10px;
+    -webkit-border-bottom-left-radius: 10px;
+}
+
+.dijitDialogPaneContent > p > img   {
+    display: none;
+}
+
+.claro .dijitDialogPaneActionBar {
+    background: none;
+    padding: 0;
+    border-top: 0;
+}
+
+.claro .dijitDialogTitleBar {
+    background: #abccf5;
+    border: none;
+}
+
+.claro .dijitButton .dijitButtonNode, .claro .dijitDropDownButton .dijitButtonNode, .claro .dijitComboButton .dijitButtonNode, .claro .dijitToggleButton .dijitButtonNode {
+    background: #abccf5;
+    
+}
+
+#loginTable > tbody > tr:first-child    {
+    display:none;
+}
+
+table > tbody > tr:nth-child(2) > th > form > table > tbody > tr > td:first-child         {
+    display:none;
+}
+
+.br-left    {
+    border: 0;
+}
+
+.br-top {
+    border: 0;
+}
+
+.btmText {
+    display: none;
+}
+
+#loginform input#sendVC, #loginform input#sendVCN, #loginform input[type=submit] {
+    background: #ffffffba;
+}
+
+
+#loginTable > tbody > tr:nth-child(3) >  th > form > table > tbody > tr > td:first-child   {
+    display: none;
+}
+
+#timerMessage   {
+    display: none;
+}
+
+
+}
+
+@-moz-document url-prefix("https://stdn.iau.ir/Student/Pages/logon/changePassword.jsp") {
+
+.dialogcontent {
+    margin: auto;
+    width: fit-content;
+    transform: translateY(300%);
+    background: #abccf5;
+    border-radius: 20px 20px 20px 20px;
+    -webkit-border-top-left-radius: 20px;
+    -webkit-border-top-right-radius: 20px;
+    -webkit-border-bottom-right-radius: 20px;
+    -webkit-border-bottom-left-radius: 20px;
+}
+
+
+.gradiantButton {
+    background: #ffffffba;
+}
+}
+
+@-moz-document url-prefix("https://stdn.iau.ir/Student") {
+#header  {
+    display: none;    
+}
+
+body    {
+    background: #153d4a;
+}
+
+#maincontent .heading   {
+    background: #153d4a;
+}
+
+#maincontent .heading .user-menu    {
+    background: #153d4a;
+}
+
+.maintable-footer   {
+    display: none;
+}
+
+body, div, td, input, textarea, select, button  {
+    font-size: 16px;
+}
+
+#maincontent .heading .misc-menu .wrapper {
+    border-radius: 10px 10px 10px 10px;
+    background:#9eb5d8;
+}
+
+#maincontent .heading .misc-menu    {
+    background-image: none;
+}
+
+#maincontent .heading .operational-menu .wrapper, #maincontent .heading .misc-menu .wrapper{
+    border-radius: 10px 10px 10px 10px;
+    background: #9eb5d8;
+}
+
+#maincontent .heading .operational-menu {
+    background-image: none;
+}
+
+#menuFrame  {
+    min-width: 250px;
+    min-height: 950px;
+}
+
+#sidebar {
+    margin-top: 74px;
+    min-width:250px;
+}
+
+#maincontent #pagetitle input.returnbutton2, #maincontent #breadcrumb input.returnbutton2   {
+    font-size: 12px;
+    border-radius: 10px;
+    color: white;
+}
+
+#maincontent .heading .user-menu form input {
+    font-size: 14px;
+}
+
+#maincontent .heading .secondrow    {
+    height: 80px;
+}
+
+#maincontent .heading .operational-menu, #maincontent .heading .misc-menu   {
+    color: black;
+    
+}
+
+#maincontent .heading .user-menu    {
+    display: flex;
+    justify-content: center;
+}
+
+#maincontent .heading .operational-menu, #maincontent .heading .misc-menu {
+    position:relative;
+    right: -25%;
+}
+
+.pagetitle  {
+    background: #153d4a;
+    color: white;
+    text-shadow: none;
+}
+
+.datagrid table * {
+   text-align: center;
+}
+
+
+#printBody  {
+    width: 1250px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#formCommands   {
+    text-align: center;
+}
+
+.datagrid  {
+    border-radius: 0px 0px 10px 10px;
+}
+
+caption, .caption   {
+    border-radius: 10px 10px 0px 0px;
+}
+}
+
+@-moz-document url-prefix("https://stdn.iau.ir/Student/cache?a=menu") {
+.myautocompl    {
+    padding: 5px;
+}
+
+#mainmenu * {
+    position: relative;
+    text-align: center;
+    width: auto;
+    border-radius: 5px 5px 5px 5px;
+    font-size: 16px;
+}
+
+#mainmenu ul ul a   {
+    border-bottom: solid 1px ;
+}
+}
