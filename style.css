@@ -223,7 +223,7 @@ body, div, td, input, textarea, select, button  {
 }
 
 #sidebar {
-    margin-top: 74px;
+    margin-top: 123.5px;
     min-width:250px;
 }
 
@@ -278,7 +278,7 @@ body, div, td, input, textarea, select, button  {
 }
 
 .datagrid  {
-    border-radius: 0px 0px 10px 10px;
+    border-radius: 10px 10px 10px 10px;
 }
 
 caption, .caption   {
