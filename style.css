@@ -1,3 +1,12 @@
+/* ==UserStyle==
+@name         آسنا
+@version      20240412.06.49
+@namespace    https://userstyles.world/user/Weirdo1312
+@description  یه تلاش برای درست کردن باگ های آموزشیار و بردنش به سال 2024
+@author       Weirdo1312
+@license      GPL-3.0 license
+==/UserStyle== */
+
 @-moz-document url-prefix("https://stdn.iau.ir/Student/Pages/acmstd/loginPage.jsp"), url-prefix("https://stdn.iau.ir/Student/captchaProcess"), url-prefix("https://stdn.iau.ir/Student/j_security_check") {
 #loginTable #text1 {
     color: black;
